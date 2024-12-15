@@ -3,7 +3,7 @@
 // PHP Data types
 // PHP Error
 
-$username = 'Jhon Deo';
+$myusername = 'Jhon Deo';
 $number = 1;
 $number2 = 1.5;
 $isEnrolled = true; // Boolean
