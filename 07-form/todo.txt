@@ -1,0 +1,14 @@
+1/ Browser=>Request=>Server=>Response=>Browser
+2/ Form Handling
+3/ Form Action
+4/ Access Submitted Form Data
+5/ Request method / GET & POST / Difference between post ang get methods
+6/ ENCType
+7/ $_FILES
+
+================
+HTML attributes:
+action, method, enctype, input=> name
+
+Variable:
+$_REQUEST, $_POST, $_GET, $_FILES
