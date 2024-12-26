@@ -1,0 +1,10 @@
+What is database
+How to log in into database
+Database intorduction / Database/ Table/ Data/Row
+
+ How to create a database
+ How to craete a table
+
+ // Insert data to database
+ 1/ Connect database using php
+ 2/ Insert data using PHP and Mysql
