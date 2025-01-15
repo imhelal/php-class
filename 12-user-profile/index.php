@@ -46,6 +46,8 @@
                 </td>
                 <td class="px-6 py-4">
                     <a href="12-user-profile/profile.php?userid=<?php echo $user['id']; ?>" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Visit Profile</a>
+                    |
+                    <a href="delete.php?id=<?php echo $user['id'] ?>" class="font-medium text-red-600 dark:text-blue-500 hover:underline">Delete</a>
                 </td>
             </tr>
 
